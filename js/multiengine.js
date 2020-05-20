@@ -5,7 +5,7 @@ window.onload = function() {
         alert("Браузер не поддерживает загрузку файлов на этом сайте");
     }
 }
-var url = "http://www.dr05045.ho.ua/escort/";
+var url = "https://ice2me.github.io/Form/";
 
 jQuery(document).ready(function() {
     // =validation
