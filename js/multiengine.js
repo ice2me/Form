@@ -16,7 +16,7 @@ jQuery(document).ready(function() {
                 formData = new FormData(form),
                 xhr = new XMLHttpRequest();
 
-            xhr.open("GET", "multisend.php");
+            xhr.open("POST", "multisend.php");
 
             xhr.onreadystatechange = function() {
                 if (xhr.readyState == 4) {
